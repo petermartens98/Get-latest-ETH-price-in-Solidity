@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-// Smart contract that displays the current ETH price up to 8 decimals
+// Smart contract that displays the current ETH price in wei
 
 pragma solidity ^0.8.0;
 
