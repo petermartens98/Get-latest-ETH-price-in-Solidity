@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-// Smart contract that displays the current ETH price in wei
+// Smart contract that displays the current ETH price in gwei
 
 pragma solidity ^0.8.0;
 
